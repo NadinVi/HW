@@ -1,4 +1,13 @@
-.p {
+table {
+border: 2px solid gray;
+border-collapse: collapse;
+}
+
+td {
+    border: 2px solid gray;
+}
+
+p {
     text-align: center;
     font-weight: bold;
     color: black;
