@@ -1,0 +1,13 @@
+.p {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.student {
+    text-align: center;
+}
+
+.full_name {
+    text-align: start;
+}
